@@ -27,6 +27,3 @@ calculator/
 └── /assets
     └── icon.png
 
-end Developer 💻
-🌐 [Your Portfolio Link]
-📧 [Your Email]
